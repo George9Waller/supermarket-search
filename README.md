@@ -7,4 +7,7 @@ this is a project to scrape the products from sainsburys.co.uk and get their pri
 2. To parse the prices out of the titles run `parse_weights.py`
 3. To get the list of products ordered by most sugar per £1 run `search.py`, you can customise the query to work out other information about the products you might want to know
 
+## Calculator
+There is also a script `calc.py` where you can enter the weight, sugar per 100g and price to get its sugar per £1
+
 happy searching :)
